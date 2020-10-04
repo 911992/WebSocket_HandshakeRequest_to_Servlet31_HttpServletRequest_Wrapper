@@ -1,0 +1,4 @@
+WebSocket_HandshakeRequest_to_Servlet31_HttpServletRequest_Wrapper
+Wrapping WebSocket HandshakeRequest to Servlet 3.1 HttpServletRequest
+
+https://github.com/911992/WebSocket_HandshakeRequest_to_Servlet31_HttpServletRequest_Wrapper
